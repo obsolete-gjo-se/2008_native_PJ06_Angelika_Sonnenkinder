@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE sitesettings SYSTEM "sitesettings.dtd">
+<!--Adobe GoLive settings file-->
+<sitesettings section="externaltab" version="1.0">
+	<attributes>
+		<attribute name="dataVersion" value="1"/>
+		<list name="entries">
+			<item>
+				<attribute name="folderType" value="7"/>
+				<attribute name="unfolded" value="yes"/>
+				<attribute name="url" value="siteEntry://externals/Gelesene%2520URLs/"/>
+			</item>
+			<item>
+				<attribute name="externalUrl" value="http://sonnenkinder.n-28.com/mimes/styles/main.css"/>
+				<attribute name="url" value="siteEntry://externals/Gelesene%2520URLs/n-28-main.css"/>
+				<attribute name="urlParams" value=""/>
+			</item>
+			<item>
+				<attribute name="externalUrl" value="http://www.sonnenkinder.de/mimes/scripts/google1.js"/>
+				<attribute name="url" value="siteEntry://externals/Gelesene%2520URLs/sonnenkinder-google1.js"/>
+				<attribute name="urlParams" value=""/>
+			</item>
+			<item>
+				<attribute name="externalUrl" value="http://www.www.sonnenkinder.de/mimes/scripts/google2.js"/>
+				<attribute name="url" value="siteEntry://externals/Gelesene%2520URLs/sonnenkinder-google2.js"/>
+				<attribute name="urlParams" value=""/>
+			</item>
+			<item>
+				<attribute name="externalUrl" value="http://www.sonnenkinder.de/mimes/styles/main.css"/>
+				<attribute name="url" value="siteEntry://externals/Gelesene%2520URLs/sonnenkinder-main.css"/>
+				<attribute name="urlParams" value=""/>
+			</item>
+			<item>
+				<attribute name="externalUrl" value="http://www.sonnenkinderverein.de/helfer/helfer.htm"/>
+				<attribute name="url" value="siteEntry://externals/Gelesene%2520URLs/sonnenkinderverein-helfer.htm"/>
+				<attribute name="urlParams" value=""/>
+			</item>
+			<item>
+				<attribute name="externalUrl" value="http://www.sonnenkinderverein.de/impressum/impressum.htm"/>
+				<attribute name="url" value="siteEntry://externals/Gelesene%2520URLs/sonnenkinderverein-impressum.htm"/>
+				<attribute name="urlParams" value=""/>
+			</item>
+			<item>
+				<attribute name="externalUrl" value="http://www.sonnenkinderverein.de/index.htm"/>
+				<attribute name="url" value="siteEntry://externals/Gelesene%2520URLs/sonnenkinderverein-index.htm"/>
+				<attribute name="urlParams" value=""/>
+			</item>
+			<item>
+				<attribute name="externalUrl" value="http://www.sonnenkinderverein.de/kontakt/kontakt.htm"/>
+				<attribute name="url" value="siteEntry://externals/Gelesene%2520URLs/sonnenkinderverein-kontakt.htm"/>
+				<attribute name="urlParams" value=""/>
+			</item>
+			<item>
+				<attribute name="externalUrl" value="http://www.sonnenkinderverein.de/projekte/projekte.htm"/>
+				<attribute name="url" value="siteEntry://externals/Gelesene%2520URLs/sonnenkinderverein-projekte.htm"/>
+				<attribute name="urlParams" value=""/>
+			</item>
+			<item>
+				<attribute name="externalUrl" value="http://www.sonnenkinderverein.de/usu/usu.htm"/>
+				<attribute name="url" value="siteEntry://externals/Gelesene%2520URLs/sonnenkinderverein-usu.htm"/>
+				<attribute name="urlParams" value=""/>
+			</item>
+		</list>
+	</attributes>
+</sitesettings>

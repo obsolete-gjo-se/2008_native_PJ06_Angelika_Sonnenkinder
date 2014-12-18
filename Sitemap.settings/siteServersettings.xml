@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE sitesettings SYSTEM "sitesettings.dtd">
+<!--Adobe GoLive settings file-->
+<sitesettings section="siteServer" version="1.0">
+	<attributes>
+		<attribute name="ActiveServer" value="ftp.sonnenkinderverein.de"/>
+		<attribute name="MaxServerID" value="1"/>
+		<list name="SiteServerList">
+			<item>
+				<attribute name="active" value="yes"/>
+				<attribute name="category" value="LocalSite"/>
+				<attribute name="globalId" value="0"/>
+				<attribute name="id" value="1"/>
+				<attribute name="name" value="ftp.sonnenkinderverein.de"/>
+				<attribute name="optionPassive" value="YES"/>
+				<attribute name="optionProxyPublish" value="NO"/>
+				<list name="options">
+					<item>
+						<attribute name="optionsKey" value="ALIVE"/>
+						<attribute name="optionsValue" value="NO"/>
+					</item>
+					<item>
+						<attribute name="optionsKey" value="FRAMEWORK"/>
+						<attribute name="optionsValue" value="libcurl"/>
+					</item>
+					<item>
+						<attribute name="optionsKey" value="ISO"/>
+						<attribute name="optionsValue" value="NO"/>
+					</item>
+					<item>
+						<attribute name="optionsKey" value="PASSIVE"/>
+						<attribute name="optionsValue" value="YES"/>
+					</item>
+					<item>
+						<attribute name="optionsKey" value="PROXY"/>
+						<attribute name="optionsValue" value="NO"/>
+					</item>
+					<item>
+						<attribute name="optionsKey" value="RESOLVE"/>
+						<attribute name="optionsValue" value="YES"/>
+					</item>
+					<item>
+						<attribute name="optionsKey" value="SECURITY"/>
+						<attribute name="optionsValue" value="None"/>
+					</item>
+				</list>
+				<attribute name="password" value="%ef%bf%a1@%ef%bf%a3%ef%be%84c"/>
+				<attribute name="savePassword" value="yes"/>
+				<attribute name="siteId" value="0"/>
+				<attribute name="timestamp" value="1209648255"/>
+				<attribute name="url" value="ftp://ftp.sonnenkinderverein.de/www.sonnenkinderverein.de/"/>
+				<attribute name="urlServerAbs" value="no"/>
+				<attribute name="username" value="33567-ftp"/>
+				<attribute name="version" value="7"/>
+			</item>
+		</list>
+	</attributes>
+</sitesettings>

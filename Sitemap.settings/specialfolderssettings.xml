@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE sitesettings SYSTEM "sitesettings.dtd">
+<!--Adobe GoLive settings file-->
+<sitesettings section="specialfolders" version="1.0">
+	<attributes>
+		<attribute name="IFPPackagesFolder" value="InDesign-Pakete"/>
+		<attribute name="IFPPackagesFolderV8" value="InDesign-Pakete"/>
+		<attribute name="SiteComponentsFolder" value="Komponenten"/>
+		<attribute name="SiteComponentsFolderV8" value="Komponenten"/>
+		<attribute name="SiteDesignsFolder" value="Diagramme"/>
+		<attribute name="SiteDesignsFolderV8" value="Diagramme"/>
+		<attribute name="SiteQueriesFolder" value="Abfragen"/>
+		<attribute name="SiteQueriesFolderV8" value="Abfragen"/>
+		<attribute name="SiteSnippetsFolder" value="Ausz%25c3%25bcge"/>
+		<attribute name="SiteSnippetsFolderV8" value="Ausz%c3%bcge"/>
+		<attribute name="SiteStationeriesFolder" value="Vorlage"/>
+		<attribute name="SiteStationeriesFolderV8" value="Vorlage"/>
+		<attribute name="SiteTemplatesFolder" value="Musterseiten"/>
+		<attribute name="SiteTemplatesFolderV8" value="Musterseiten"/>
+		<attribute name="SiteTrashFolder" value="Web-Site-Papierkorb"/>
+		<attribute name="SiteTrashFolderV8" value="Web-Site-Papierkorb"/>
+		<attribute name="SmartObjectsFolder" value="SmartObjects"/>
+		<attribute name="SmartObjectsFolderV8" value="SmartObjects"/>
+		<attribute name="UsesWStrs" value="yes"/>
+	</attributes>
+</sitesettings>
